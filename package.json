@@ -1,0 +1,11 @@
+{
+  "name": "pvdelightpix-final",
+  "version": "1.0.0",
+  "description": "PV Delight Pix Static Website",
+  "scripts": {
+    "dev": "npx serve ."
+  },
+  "keywords": [],
+  "author": "PV Delight Pix",
+  "license": "ISC"
+}
